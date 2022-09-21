@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Pete, a legal technologist with 8 years' experience in eDiscovery across the private and public sectors. I work or have worked daily with many of the industry-standard eDiscovery applications, including Nuix Workstation, Nuix Discover and Relativity. My speciality is leveraging programming languages like VBA, VB.NET, Python, JavaScript and Node.js to automate processes and help lawyers or investigators find what they're looking for.
+I'm Pete, a legal technologist with 8 years' experience in eDiscovery across the private and public sectors. I work or have worked daily with many of the industry-leading eDiscovery applications, including Nuix Workstation, Nuix Discover and Relativity. My speciality is leveraging programming languages like VBA, VB.NET, Python, JavaScript and Node.js to automate processes and help lawyers or investigators find what they're looking for.
 
 I'm also an application and web developer, with 2 years' experience developing web applications. Some of my projects include an add-on to Microsoft Word to hyperlink document ID references to files, a Chrome web extension that lets you show only specific verb conjugations in SpanishDict.cc, and various Python scripts that do useful things like delimit and unsecure PDFs, generate graphs to help you analyse predictive coding performance, and copy and rename files.
 
