@@ -11,7 +11,7 @@ I'm also an application and web developer, with 2 years' experience developing w
 ![SQL](https://img.shields.io/badge/Language-SQL-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=F3F1F5&color=F0D9FF)
 ![Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=F3F1F5&color=F0D9FF)
 ![VBA](https://img.shields.io/badge/Language-VBA-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=F3F1F5&color=F0D9FF)
-![VB.NET)(https://img.shields.io/badge/Language-VB.NET-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=F3F1F5&color=F0D9FF)
+![VB.NET](https://img.shields.io/badge/Language-VB.NET-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=F3F1F5&color=F0D9FF)
 
 <!--
 **peterekey/peterekey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
