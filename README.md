@@ -3,7 +3,7 @@ I'm Pete, a legal technologist with 8 years' experience in eDiscovery across the
 
 I'm also an application and web developer, with 2 years' experience developing web applications. Some of my projects include:
 - an add-on to Microsoft Word to hyperlink document ID references to files
-- a Chrome web extension that lets you show only specific verb conjugations in SpanishDict.cc
+- a Chrome web extension that lets you show only specific verb conjugations in SpanishDict.com
 - Python scripts that delimit and unsecure PDFs, generate graphs to help you analyse predictive coding performance, and copy and rename files.
 
 ## Languages and technologies
